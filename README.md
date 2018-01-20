@@ -1,0 +1,2 @@
+# winlottobot
+winlotto
